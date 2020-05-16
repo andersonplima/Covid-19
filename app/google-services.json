@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142721081392",
+    "firebase_url": "https://apl-guaravid19.firebaseio.com",
+    "project_id": "apl-guaravid19",
+    "storage_bucket": "apl-guaravid19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142721081392:android:a2840cbc708a3ad54c4df5",
+        "android_client_info": {
+          "package_name": "com.apl.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142721081392-78rbt7rc9ifbig0098b1llj3gfb9k0eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrPURASrR_-ubOhSmYhUKO2fqaSGQPN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142721081392-78rbt7rc9ifbig0098b1llj3gfb9k0eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
